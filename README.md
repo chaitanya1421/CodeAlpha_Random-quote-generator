@@ -1,16 +1,21 @@
-# code_alpha3
+Inspire Me - Random Quote Generator 🚀✨
 
-A new Flutter project.
+"The only way to do great work is to love what you do." — Steve Jobs
 
-## Getting Started
+Inspire Me is a beautiful, minimalist Flutter application designed to provide daily doses of wisdom and motivation. Built with a focus on UI/UX, it features smooth animations, vibrant gradients, and a Clean Architecture pattern.
 
-This project is a starting point for a Flutter application.
+📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+✨ Curated Collection: A vast library of quotes from history's greatest minds (Steve Jobs, Maya Angelou, Einstein, and more).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎨 Immersive UI:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dynamic Gradients: Deep Indigo to Cyan gradients that create a calming yet energetic atmosphere.
+
+Lottie Animations: High-quality vector animations (Rocket launch on welcome, Sparkling stars on home).
+
+⚡ Smooth Transitions: Custom-built AnimatedSwitcher transitions (Scale + Fade + Slide) when generating new quotes.
+
+🏗️ Clean Architecture: The codebase is structured into clear Domain, Data, and Presentation layers for maintainability and scalability.
+
+📱 Responsive Design: Optimized for portrait mode with safe area handling.
